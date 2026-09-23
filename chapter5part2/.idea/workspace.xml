@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f247be2d-d5ca-425d-938b-3948392134ae" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/se233/chapter5part2/controller/GameLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se233/chapter5part2/model/Direction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se233/chapter5part2/model/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se233/chapter5part2/model/Snake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se233/chapter5part2/view/GameStage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/se233/chapter5part2/FoodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/se233/chapter5part2/GameLoopTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/se233/chapter5part2/JUnitTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/se233/chapter5part2/ReflectionHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/se233/chapter5part2/SnakeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter5part1/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter5part1/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter5part1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter5part1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter5part1/src/main/java/se233/chapter5part1/controller/GameLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter5part1/src/main/java/se233/chapter5part1/controller/GameLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter5part1/src/main/java/se233/chapter5part1/model/GameCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter5part1/src/main/java/se233/chapter5part1/model/GameCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter5part1/src/main/java/se233/chapter5part1/view/GameStage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter5part1/src/main/java/se233/chapter5part1/view/GameStage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter5part1/src/main/java/se233/chapter5part1/view/Score.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter5part1/src/main/java/se233/chapter5part1/view/Score.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter5part1/src/test/java/se233/chapter5part1/GameCharacterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter5part1/src/test/java/se233/chapter5part1/GameCharacterTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;tapimeow&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/tapimeow/AdPro-Lab.git&quot;,
+    &quot;accountId&quot;: &quot;31530efe-4d0d-4199-8090-6091da03fead&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.000000000002804" />
+      <entry key="S10" value="1.000004778552329" />
+      <entry key="S30" value="1.1276250199812523" />
+      <entry key="S60" value="3.4030656991060377" />
+      <entry key="M2" value="14.892009206025456" />
+      <entry key="M5" value="64.26329144101594" />
+      <entry key="M10" value="151.15399091046876" />
+      <entry key="M15" value="235.62881793530707" />
+      <entry key="M30" value="453.1528588359793" />
+      <entry key="H1" value="774.7344524121429" />
+      <entry key="H2" value="1193.9767810263293" />
+      <entry key="H4" value="1599.7297090726393" />
+      <entry key="D1" value="2143.7939445085476" />
+      <entry key="W1" value="2264.855632700101" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="2.247236383936653E-137" />
+      <entry key="S2" value="7.239153262660178E-35" />
+      <entry key="S5" value="3.1372969583930895E-14" />
+      <entry key="S10" value="2.874980464187861E-7" />
+      <entry key="S30" value="0.015043058760014636" />
+      <entry key="S60" value="0.2790798210003418" />
+      <entry key="M2" value="1.5838979948716123" />
+      <entry key="M5" value="6.408123373614702" />
+      <entry key="M10" value="12.644819457957652" />
+      <entry key="M15" value="17.662472162510646" />
+      <entry key="M30" value="29.276927221238168" />
+      <entry key="H1" value="46.24733764540368" />
+      <entry key="H2" value="69.28805580396438" />
+      <entry key="H4" value="92.07290507713839" />
+      <entry key="D1" value="122.91247986639104" />
+      <entry key="W1" value="129.7970212236421" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8526348917679567" />
+      <entry key="MS500" value="0.9686181892266277" />
+      <entry key="S2" value="0.9920604931322485" />
+      <entry key="S5" value="0.9968166007667745" />
+      <entry key="S10" value="0.9984119345583355" />
+      <entry key="S30" value="1.139181234632517" />
+      <entry key="S60" value="3.648974618034927" />
+      <entry key="M2" value="16.37161436868225" />
+      <entry key="M5" value="70.47568210847867" />
+      <entry key="M10" value="163.5714213288561" />
+      <entry key="M15" value="253.05861409328503" />
+      <entry key="M30" value="482.2124289413761" />
+      <entry key="H1" value="820.800332560883" />
+      <entry key="H2" value="1263.1269732533601" />
+      <entry key="H4" value="1691.7108778870356" />
+      <entry key="D1" value="2266.686036712919" />
+      <entry key="W1" value="2394.6495793054023" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3JQLyQ7dyivxavjb4hbcCiwmy93" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Launcher.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameLoopTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.JUnitTestSuite.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SnakeTest.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/tapiru/Desktop/Cmu/Term2-1/Adpro/Lab/chapter5part2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.JUnitTestSuite">
+    <configuration name="Launcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="se233.chapter5part2.Launcher" />
+      <module name="chapter5part2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se233.chapter5part2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameLoopTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapter5part2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se233.chapter5part2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="se233.chapter5part2" />
+      <option name="MAIN_CLASS_NAME" value="se233.chapter5part2.GameLoopTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="--add-reads se233.chapter5part2=org.junit.jupiter.api,org.junit.platform.commons,org.mockito --add-opens se233.chapter5part2/se233.chapter5part2=org.junit.platform.commons,org.junit.jupiter.api,org.mockito" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JUnitTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapter5part2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se233.chapter5part2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="se233.chapter5part2" />
+      <option name="MAIN_CLASS_NAME" value="se233.chapter5part2.JUnitTestSuite" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="--add-reads se233.chapter5part2=org.junit.jupiter.api,org.junit.platform.commons,org.mockito --add-opens se233.chapter5part2/se233.chapter5part2=org.junit.platform.commons,org.junit.jupiter.api,org.mockito" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Launcher" />
+      <item itemvalue="JUnit.JUnitTestSuite" />
+      <item itemvalue="JUnit.GameLoopTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.JUnitTestSuite" />
+        <item itemvalue="Application.Launcher" />
+        <item itemvalue="JUnit.GameLoopTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f247be2d-d5ca-425d-938b-3948392134ae" name="Changes" comment="" />
+      <created>1789588602830</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789588602830</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/se233/chapter5part2/SnakeTest.java</url>
+          <line>48</line>
+          <properties class="se233.chapter5part2.SnakeTest" method="collided_withSnake_shouldBeDetected">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
